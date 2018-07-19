@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fragmentDemo</string>
+    <string name="mt_shop">餐管</string>
+    <string name="mt_order">订单</string>
+</resources>
